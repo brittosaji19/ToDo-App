@@ -1,0 +1,32 @@
+.listitem{
+	background-color: #456454;
+}
+.container{
+  padding-top: 20px;
+}
+.col-md-10.col-sm-10 {
+  min-width: 75vw;
+}
+li.list-group-item.listitem {
+  border-radius: 0px;
+}
+.bar.bar-royal {
+  border-color: #2a8313;
+  background-color: rgb(42, 151, 105);
+  background-image: linear-gradient(0deg, #6b46e5, #6b46e5 50%, transparent 50%);
+  color: #fff;
+}
+#addbutton {
+  color: #fff;
+  background-color: #2a9769;
+  border-color: #2a9769;
+}
+button.btn-info.form-control {
+  border-radius: 0px;
+}
+i.list-group-item.listitem {
+  background-color: #2a9769;
+}
+li.list-group-item.listitem {
+  border: 0px;
+}
